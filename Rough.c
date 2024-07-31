@@ -1,25 +1,9 @@
 #include <stdio.h>
-#include <conio.h>
-int main()
+void main()
 {
-    int n,factor=0;
-    printf("Enter a Number: ");
-    scanf("%d",&n);
-    for(int i=1;i<=n;i++)
-    {
-        if(n%i==0)
-        {
-            factor++;
-        }
-    }
-    if(factor>2)
-    {
-        printf("%d is not a Prime Number",n);
-    }
-    else
-    {
-        printf("%d is a Prime Number",n);
-    }
-    getch();
-    return 0;
+    printf("Hello World\n\n");
+    printf("\033[1mHello World\n\n");
+    printf("\033[22m");
+    printf("\n\n\033[3mHello World\n");
+    printf("\033[23m");
 }
