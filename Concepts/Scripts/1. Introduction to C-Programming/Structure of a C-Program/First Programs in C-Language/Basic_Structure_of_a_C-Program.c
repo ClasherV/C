@@ -3,7 +3,6 @@
 /*Program for addition of
   two numbers*/
 
-/*  
 #include <stdio.h>
 #include <conio.h>
 #define MAX 100
@@ -21,4 +20,3 @@ void display()
 }
 
 // O/p: Hello WorldJenny's Lectures
-*/

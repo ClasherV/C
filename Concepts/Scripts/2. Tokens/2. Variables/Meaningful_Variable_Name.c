@@ -7,3 +7,5 @@ void main()
     printf("%d",Sum);
     getch();
 }
+
+// O/p: 15

@@ -9,3 +9,5 @@ void main()
     printf("%d",c);
     getch();
 }
+
+// O/p: 25

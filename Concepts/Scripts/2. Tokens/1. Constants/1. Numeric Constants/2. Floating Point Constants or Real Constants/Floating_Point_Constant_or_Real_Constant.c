@@ -7,3 +7,4 @@ void main()
     printf("%f %f",f,e);
     getch();
 }
+// O/p: 12.340000 12.340000

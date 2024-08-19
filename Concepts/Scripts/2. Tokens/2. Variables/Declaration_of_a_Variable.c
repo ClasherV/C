@@ -6,3 +6,5 @@ void main()
     printf("Hello World");
     getch();
 }
+
+// O/p: Hello World

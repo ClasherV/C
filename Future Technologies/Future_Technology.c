@@ -33,7 +33,8 @@ int main()
 int main()
 {
     int a,b,c,d,e;
-    printf("Choose a Fruit in Your Mind and I will guess it\n");
+    printf("\033[50C");
+    printf("\033[1;33mChoose a Fruit in Your Mind and I will guess it\033[39m\n");
     printf("Remember answer yes or no in 1 and 0 format only\n\n");
     printf("Choose a Fruit\n");
     printf("Apple\n");

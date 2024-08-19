@@ -6,3 +6,5 @@ void main()
     printf("%d",a);
     getch();
 }
+
+// O/p: 10

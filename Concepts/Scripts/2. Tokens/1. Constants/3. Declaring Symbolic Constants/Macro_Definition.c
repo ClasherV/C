@@ -6,3 +6,5 @@ void main()
     printf("%f",PI);
     getch();
 }
+
+// O/p: 3.140000

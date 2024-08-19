@@ -10,3 +10,10 @@ void main()
     printf("%d\n",'a'/'a');
     getch();
 }
+
+// O/p: 97
+//      a
+//      c
+//      1
+//      b
+//      1

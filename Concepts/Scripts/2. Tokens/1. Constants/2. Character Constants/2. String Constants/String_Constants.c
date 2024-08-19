@@ -6,3 +6,5 @@ void main()
     printf("%s %s %s",str,"Hello","Vaibhav\0Raikwar");
     getch();
 }
+
+// O/p: Jenny Hello Vaibhav

@@ -30,6 +30,6 @@ void main()
     {
         Octal=Str[i]-'0';
     }
-    printf("The Decimal Number Represented in Octal Number is: %d",Octal);
+    printf("The Decimal Number Represented in Octal Number is: %s",Str);
     getch();
 }
