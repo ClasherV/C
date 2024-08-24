@@ -2,8 +2,9 @@
 #include <conio.h>
 void main()
 {
-    printf("%0o %o",15,8);
+    int a=16,b=10;
+    printf("%x %0x %X",a,b,b);
     getch();
 }
 
-// O/p: 17 10
+// O/p: 10 a A
