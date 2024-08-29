@@ -9,13 +9,20 @@ void main()
     printf("Press Enter to See the Change\n");
     getch();
     printf("\033[u \033[5A \033[0J");
-    printf("\033[1B");
+    printf("\033[5B");
     getch();
 }
 
-// O/p: Hello
-//          
-//      
-//      
-//      
-//        
+// O/p: Hello World
+//      Hello World
+//      Hello World
+//      Hello World
+//      Press Enter to See the Change
+//      [ENTER]
+//      [SCREEN CHANGED]
+//      Hello
+//           
+//           
+//           
+//           
+//           

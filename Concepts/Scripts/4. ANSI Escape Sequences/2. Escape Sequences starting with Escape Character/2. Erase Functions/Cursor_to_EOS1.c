@@ -13,9 +13,16 @@ void main()
     getch();
 }
 
-// O/p: Hello
-//      
-//      
-//      
-//    
+// O/p: Hello World
+//      Hello World
+//      Hello World
+//      Hello World
+//      Press Enter to See the Change
+//      [ENTER]
+//      [SCREEN CHANGED]
+//      Hello
+//           
+//           
+//           
+//           
 //           
