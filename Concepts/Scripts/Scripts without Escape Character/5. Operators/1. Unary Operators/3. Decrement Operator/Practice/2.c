@@ -3,11 +3,11 @@
 void main()
 {
     int a=5,b,c,d;
-    b=++a;
-    c=a++ + ++a-a++;
-    d=++a;
+    b=--a;
+    c=a--;
+    d=--a;
     printf("%d %d %d %d",a,b,c,d);
     getch();
 }
 
-// O/p: 10 6 6 10
+// O/p: 2 4 4 2
